@@ -9,17 +9,17 @@
   },
   "dependencies": {
     "@pkg/setting": "workspace:*",
-    "@vue/runtime-core": "^3.2.31",
-    "@vue/shared": "^3.2.31",
-    "@vueuse/core": "^8.1.2",
-    "@vueuse/shared": "^8.1.2",
-    "dayjs": "^1.11.0",
+    "@vue/runtime-core": "^3.2.36",
+    "@vue/shared": "^3.2.36",
+    "@vueuse/core": "^8.5.0",
+    "@vueuse/shared": "^8.5.0",
+    "dayjs": "^1.11.2",
     "lodash-es": "^4.17.21"
   },
   "devDependencies": {
     "@types/lodash-es": "^4.17.6"
   },
   "optionalDependencies": {
-    "vue": "^3.2.31"
+    "vue": "^3.2.36"
   }
 }
