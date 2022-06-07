@@ -8,14 +8,14 @@
     "clean": "pnpm rimraf node_modules && pnpm rimraf dist && pnpm rimraf .turbo"
   },
   "optionalDependencies": {
-    "vue": "^3.2.36"
+    "vue": "^3.2.37"
   },
   "dependencies": {
     "@pkg/setting": "workspace:*",
     "@pkg/tokens": "workspace:*",
     "@pkg/types": "workspace:*",
     "@pkg/utils": "workspace:*",
-    "@vueuse/core": "^8.5.0",
+    "@vueuse/core": "^8.6.0",
     "vue-i18n": "^9.1.10"
   }
 }

@@ -10,9 +10,9 @@
   "dependencies": {
     "@pkg/locale": "workspace:*",
     "@pkg/utils": "workspace:*",
-    "@vueuse/core": "^8.5.0"
+    "@vueuse/core": "^8.6.0"
   },
   "optionalDependencies": {
-    "vue": "^3.2.36"
+    "vue": "^3.2.37"
   }
 }

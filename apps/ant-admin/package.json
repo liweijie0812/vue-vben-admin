@@ -46,13 +46,13 @@
     "path-to-regexp": "^6.2.1",
     "pinia": "2.0.12",
     "sortablejs": "^1.15.0",
-    "vue": "^3.2.36",
+    "vue": "^3.2.37",
     "vue-router": "^4.0.15"
   },
   "devDependencies": {
     "@config/css-preprocess": "workspace:*",
     "@config/vite": "workspace:*",
-    "@iconify/json": "^2.1.54",
+    "@iconify/json": "^2.1.57",
     "@pkg/types": "workspace:*",
     "@purge-icons/generated": "^0.8.1",
     "@types/codemirror": "^5.60.5",
